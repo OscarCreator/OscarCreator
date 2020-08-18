@@ -17,6 +17,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OscarCreator&show_icons=true" />
+
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcreator&layout=compact" />
+
 
 [stackoverflow]: https://stackoverflow.com/users/11883666/oscarcreator
 [email]: mailto:oscar.creator13@gmail.com
