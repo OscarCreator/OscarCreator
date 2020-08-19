@@ -21,10 +21,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=OscarCreator&show_icons=true&count_private=true" />
 
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcreator&layout=compact" />
-
-
 [stackoverflow]: https://stackoverflow.com/users/11883666/oscarcreator
 [email]: mailto:oscar.creator13@gmail.com
