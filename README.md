@@ -8,7 +8,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%40Ossy33%233540-7289DA?style=for-the-badge&logo=discord)
 [<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-OscarCreator-FE7A16?style=for-the-badge&logo=stackoverflow" />][stackoverflow]
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-oscar.creator@gmail.com-D14836?style=for-the-badge&logo=gmail" />][email]
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-oscar.creator13@gmail.com-D14836?style=for-the-badge&logo=gmail" />][email]
 
 <br />
 
