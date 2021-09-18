@@ -1,7 +1,7 @@
 ### Hi there, I'm Oscar - aka [OscarCreator]
 
-- 🌱 I'm currently learning OpenGL: [OpenGL 3D Game Project](https://github.com/OscarCreator/OpenGL_3D_Game_Project)
-- 🥅 Goals: Create a custom view that renders 3D models with OpenGL for Android, Learn C++ and Blender
+- 🌱 I'm currently learning making SMS Scheduler V2: [sms-scheduler-v2](https://github.com/OscarCreator/sms-scheduler-v2)
+- 🥅 Goals: Create a custom view that renders 3D models with OpenGL for Android
 - 👾 Fun fact: If life truly is meaningless, then it can mean absolutely anything you want it to
 
 ### Connect with me:
@@ -18,8 +18,8 @@
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Sqlite" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png" />
 <img align="left" alt="Sqlite" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
-<img align="left" alt="AndroidStudio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/64px-Android_Studio_icon.svg.png" />
-<img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/240px-IntelliJ_IDEA_Logo.svg.png" />
+<img align="left" alt="AndroidStudio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
+<img align="left" alt="Intellij Idea" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
