@@ -1,8 +1,7 @@
 ### Hi there, I'm Oscar - aka [OscarCreator]
 
-- 🌱 I'm currently learning making SMS Scheduler V2: [sms-scheduler-v2](https://github.com/OscarCreator/sms-scheduler-v2)
+- 🌱 I'm currently making Pigeon: [Pigeon](https://github.com/OscarCreator/Pigeon)
 - 🥅 Goals: Create a custom view that renders 3D models with OpenGL for Android
-- 👾 Fun fact: If life truly is meaningless, then it can mean absolutely anything you want it to
 
 ### Connect with me:
 
