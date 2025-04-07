@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar - aka [OscarCreator]
 
-- 🌱 I'm currently making Pigeon: [Showcase](https://github.com/OscarCreator/Pigeon), [Source](https://github.com/OscarCreator/sms-scheduler-v2)
+- 🌱 I'm currently making Pigeon: [Showcase](https://github.com/OscarCreator/Pigeon)
 - 🥅 Goals: Learn [Rust](https://github.com/rust-lang/rust)
 
 ### Connect with me:
